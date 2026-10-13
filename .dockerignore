@@ -1,0 +1,27 @@
+# Python environments
+.venv/
+venv/
+**/__pycache__/
+*.py[cod]
+
+# Git files
+.git/
+
+# Large datasets and notebooks
+data/
+**/*.ipynb
+
+# Frontend dependencies and build output
+frontend/node_modules/
+frontend/dist/
+
+# Local experiment and database files
+mlruns/
+mlflow.db
+predictions.db
+*.db
+
+# Temporary files
+*.log
+.DS_Store
+Thumbs.db

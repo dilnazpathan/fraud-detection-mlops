@@ -1,0 +1,2 @@
+Model,Threshold,Accuracy,Fraud Precision,Fraud Recall,Fraud F1-score,ROC-AUC,Average Precision,Test Transactions,Actual Fraud Transactions
+Tuned Random Forest,0.7777777777777777,0.9999947594591762,0.999231950844854,0.9969348659003832,0.9980820866896817,0.9995892194489135,0.9989189353244979,954100,1305
